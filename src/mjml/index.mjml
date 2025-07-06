@@ -1,0 +1,62 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Orbi : L'expert WiFi pour les grandes maisons</mj-title>
+    <mj-font name="Source Sans 3" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&amp;display=swap"></mj-font>
+    <mj-raw>
+      <meta charset="UTF-8">
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
+      <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
+      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
+      <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="30px" font-weight="500"/>
+      <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
+      <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
+      <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
+      <mj-class name="cT1" color="#2c262d"/>
+      <mj-class name="bgT1" background-color="#2c262d"></mj-class>
+      <mj-class name="cT0" color="#000000"/>
+      <mj-class name="bg0" background-color="#000000"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="cB" color="#00A4DE"/>
+      <mj-class name="bgB" background-color="#00A4DE"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#f1f0f0" width="700px">
+    <mj-section padding="24px 30px" mj-class="bgT1">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image align="left" padding="0" width="130px" src="./images/NetgearStoreWhite.png" alt="logo Netgear en noir"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Orbi : L'expert WiFi pour les grandes maisons</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/illustrationOrbi.jpg" alt=""/>
+        <mj-text>Un WiFi ultra-performant partout chez vous </mj-text>
+        <mj-text>Le Système Mesh Orbi associé à la technologie WiFi 6 vous offre non seulement le meilleur WiFi (débit jusqu'à 6 Gbit/s) mais aussi la capacité de couvrir de grandes superficies (jusqu'à 1380 m2) avec une connexion rapide et stable.</mj-text>
+        <mj-text>Rien n'arrête les Systèmes Mesh Orbi WiFi 6 ! Maisons à étages, villas, manoirs, corps de ferme, murs épais, ... la technologie d'Orbi permet à tous les membres de la famille de se connecter au WiFi, simultanément, sur une multitude d'appareils, y compris au bout de votre propriété.</mj-text>
+        <mj-text>Sa simplicité d’utilisation et ses vitesses ultra-rapides font de ce Système WiFi le meilleur de sa catégorie. Idéal pour profiter de la Fibre, streamer en 4K/8K, jouer en ligne, télécharger et bien plus encore.</mj-text>
+        <mj-text>Ne manquez pas nos offres du moment pour tester le WiFi 1re classe !</mj-text>
+        <mj-button>Découvrir</mj-button>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
