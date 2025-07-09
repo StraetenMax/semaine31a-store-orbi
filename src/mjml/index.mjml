@@ -15,8 +15,7 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T32-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="32px" line-height="50px" font-weight="300"/>
-      <mj-class name="T30-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="40px" font-weight="500"/>
-      <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="30px" font-weight="500"/>
+      <mj-class name="T26-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
       <mj-class name="T17-500" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T12-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="13px" font-weight="400"/>
       <mj-button padding="0" inner-padding="10px 45px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
@@ -44,51 +43,51 @@
     </mj-section>
     <mj-section mj-class="bgB">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="cTW">Orbi : L'expert WiFi pour les grandes maisons</mj-text>
+        <mj-text padding="0" align="center" mj-class="T32-300 cTW">Orbi : L'expert WiFi pour les grandes maisons</mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationOrbi.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 CT1">Un WiFi ultra-performant partout chez vous</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 CT1">Le Système Mesh Orbi associé à la technologie WiFi 6 vous offre non seulement le meilleur WiFi (débit jusqu'à 6 Gbit/s) mais aussi la capacité de couvrir de grandes superficies (jusqu'à 1380 m2) avec une connexion rapide et stable.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 CT1">Rien n'arrête les Systèmes Mesh Orbi WiFi 6 ! Maisons à étages, villas, manoirs, corps de ferme, murs épais, ... la technologie d'Orbi permet à tous les membres de la famille de se connecter au WiFi, simultanément, sur une multitude d'appareils, y compris au bout de votre propriété.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 CT1">Sa simplicité d'utilisation et ses vitesses ultra-rapides font de ce Système WiFi le meilleur de sa catégorie. Idéal pour profiter de la Fibre, streamer en 4K/8K, jouer en ligne, télécharger et bien plus encore.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 CT1">Ne manquez pas nos offres du moment pour tester le WiFi 1re classe !</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cB" letter-spacing="0.5px">Un WiFi ultra-performant partout chez vous</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Le Système Mesh Orbi associé à la technologie WiFi 6 vous offre non seulement le meilleur WiFi (débit jusqu'à 6 Gbit/s) mais aussi la capacité de couvrir de grandes superficies (jusqu'à 1380 m2) avec une connexion rapide et stable.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Rien n'arrête les Systèmes Mesh Orbi WiFi 6 ! Maisons à étages, villas, manoirs, corps de ferme, murs épais, ... la technologie d'Orbi permet à tous les membres de la famille de se connecter au WiFi, simultanément, sur une multitude d'appareils, y compris au bout de votre propriété.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Sa simplicité d'utilisation et ses vitesses ultra-rapides font de ce Système WiFi le meilleur de sa catégorie. Idéal pour profiter de la Fibre, streamer en 4K/8K, jouer en ligne, télécharger et bien plus encore.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Ne manquez pas nos offres du moment pour tester le WiFi 1re classe !</mj-text>
         <mj-button mj-class="bgB">Découvrir</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk853.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK853) Jusqu'à 690m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">2 supports muraux offerts</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">1099.99€ 1069.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK853) Jusqu'à 690m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">2 supports muraux offerts</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">1099.99€ 1069.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk854.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK854) Jusqu'à 920m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">3 supports muraux offerts</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">1609.99€ 1469.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK854) Jusqu'à 920m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">3 supports muraux offerts</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">1609.99€ 1469.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk855.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK855) Jusqu'à 1150m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">4 supports muraux offerts</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">2079.99€ 1829.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK855) Jusqu'à 1150m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">4 supports muraux offerts</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">2079.99€ 1829.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk856.jpg" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX6000</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK856) </mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Jusqu'à 1380m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">2499.99€ 2179.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX6000</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK856) </mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Jusqu'à 1380m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">2499.99€ 2179.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
     </mj-section>
@@ -100,50 +99,50 @@
     <mj-section>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk752.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX4200</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK752) Jusqu'à 350m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">499.99€ 379.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK752) Jusqu'à 350m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">499.99€ 379.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk753.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX4200</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK753) Jusqu'à 525m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">699.99€ 559.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK753) Jusqu'à 525m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">699.99€ 559.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk754.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX4200</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK754) Jusqu'à 700m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">979.99€ 739.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK754) Jusqu'à 700m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">979.99€ 739.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk755.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX4200</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK755) Jusqu'à 700m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">1259.99€ 919.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK755) Jusqu'à 700m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">1259.99€ 919.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk352.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX1800</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK352) Jusqu'à 200m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">249.99€ 209.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX1800</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK352) Jusqu'à 200m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">249.99€ 209.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
       <mj-column width="50%">
         <mj-image padding="0" align="center" width="275px" src="./images/rbk353.gif" alt=""/>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">Système Mesh Orbi WiFi 6 AX1800</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">(RBK353) Jusqu'à 300m2</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1">349.99€ 299.99€</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Système Mesh Orbi WiFi 6 AX1800</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">(RBK353) Jusqu'à 300m2</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">349.99€ 299.99€</mj-text>
         <mj-button mj-class="bgB">J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-text padding="0" align="center" mj-class="cTW">... et bien plus encore sur le store Netgear</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cTW">... et bien plus encore sur le store Netgear</mj-text>
         <mj-button mj-class="bgW cT1">Découvrir</mj-button>
       </mj-column>
     </mj-section>
