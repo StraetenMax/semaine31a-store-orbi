@@ -49,11 +49,15 @@
     <mj-section>
       <mj-column>
         <mj-image padding="0" width="700px" src="./images/illustrationOrbi.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section> 
+      <mj-column border="1px solid #CECECE">
         <mj-text padding="0" align="center" mj-class="T26-500 cB" letter-spacing="0.5px">Un WiFi ultra-performant partout chez vous</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Le Système Mesh Orbi associé à la technologie WiFi 6 vous offre non seulement le meilleur WiFi (débit jusqu'à 6 Gbit/s) mais aussi la capacité de couvrir de grandes superficies (jusqu'à 1380 m2) avec une connexion rapide et stable.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Rien n'arrête les Systèmes Mesh Orbi WiFi 6 ! Maisons à étages, villas, manoirs, corps de ferme, murs épais, ... la technologie d'Orbi permet à tous les membres de la famille de se connecter au WiFi, simultanément, sur une multitude d'appareils, y compris au bout de votre propriété.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Sa simplicité d'utilisation et ses vitesses ultra-rapides font de ce Système WiFi le meilleur de sa catégorie. Idéal pour profiter de la Fibre, streamer en 4K/8K, jouer en ligne, télécharger et bien plus encore.</mj-text>
-        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Ne manquez pas nos offres du moment pour tester le WiFi 1re classe !</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>Le Système Mesh Orbi associé à la technologie WiFi&nbsp;6</strong> vous offre non seulement le meilleur WiFi <strong>(débit jusqu'à 6 Gbit/s)</strong> mais aussi la capacité de couvrir de grandes superficies <strong>(jusqu'à 1380 m2)</strong> avec une connexion rapide et stable.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Rien n'arrête les <strong>Systèmes Mesh Orbi WiFi 6&nbsp;!</strong> Maisons à étages, villas, manoirs, corps de ferme, murs épais, ... la technologie d'Orbi permet à tous les membres de la famille de se connecter au WiFi, simultanément, sur une multitude d'appareils, y compris au bout de votre propriété.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>Sa simplicité d'utilisation et ses vitesses ultra-rapides</strong> font de ce Système WiFi le meilleur de sa catégorie. Idéal pour profiter de la Fibre, streamer en 4K/8K, jouer en ligne, télécharger et bien plus encore.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px"><strong>Ne manquez pas nos offres du moment pour tester le WiFi 1re classe&nbsp;!</strong></mj-text>
         <mj-button mj-class="bgB">Découvrir</mj-button>
       </mj-column>
     </mj-section>
